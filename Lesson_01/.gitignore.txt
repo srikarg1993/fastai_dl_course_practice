@@ -1,0 +1,5 @@
+pandas_or_bears/panda_or_not
+is_it_a_bird/bird_or_not
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
